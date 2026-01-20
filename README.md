@@ -50,7 +50,7 @@ Add the following to your `claude_desktop_config.json`:
       "command": "uv",
       "args": [
         "--directory",
-        "/Users/vaidaleelarajesh/darling/chartjs-mcp",
+        "/Users/vaidaleelarajesh/chartjs-mcp",
         "run",
         "python",
         "server.py"
@@ -60,7 +60,7 @@ Add the following to your `claude_desktop_config.json`:
 }
 ```
 
-**Important**: Replace `/Users/vaidaleelarajesh/darling/chartjs-mcp` with the actual absolute path to your installation directory.
+**Important**: Replace `/Users/vaidaleelarajesh/chartjs-mcp` with the actual absolute path to your installation directory.
 
 ### For Other MCP Clients
 
