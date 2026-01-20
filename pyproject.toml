@@ -1,0 +1,12 @@
+[project]
+name = "chartjs-mcp"
+version = "0.1.0"
+description = "MCP server for Chart.js"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]>=1.25.0",
+]
+
+[project.scripts]
+chartjs-mcp = "server:mcp.run"
